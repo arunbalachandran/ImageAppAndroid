@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyImageApp</string>
+    <string name="CameraButtonString">Camera</string>
+    <string name="GalleryButtonString">Gallery</string>
+</resources>
